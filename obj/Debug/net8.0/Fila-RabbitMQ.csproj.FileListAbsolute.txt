@@ -1,0 +1,17 @@
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\bin\Debug\net8.0\Fila-RabbitMQ.exe
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\bin\Debug\net8.0\Fila-RabbitMQ.deps.json
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\bin\Debug\net8.0\Fila-RabbitMQ.runtimeconfig.json
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\bin\Debug\net8.0\Fila-RabbitMQ.dll
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\bin\Debug\net8.0\Fila-RabbitMQ.pdb
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\Fila-RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\Fila-RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\Fila-RabbitMQ.AssemblyInfo.cs
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\Fila-RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\Fila-RabbitMQ.dll
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\refint\Fila-RabbitMQ.dll
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\Fila-RabbitMQ.pdb
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\Fila-RabbitMQ.genruntimeconfig.cache
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\ref\Fila-RabbitMQ.dll
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\Fila-RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\leo5d\source\repos\Fila-RabbitMQ\obj\Debug\net8.0\Fila-Rab.F7348BAD.Up2Date
